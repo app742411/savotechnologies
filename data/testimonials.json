@@ -1,0 +1,137 @@
+[
+  {
+    "id": "testimonial-1",
+    "logo": "/images/logos/logo-05.svg",
+    "logoText": "TechNova",
+    "content": "Savo Tech delivered a modern web platform that exceeded our expectations. Their team was responsive, detail-oriented, and delivered every milestone on schedule.",
+    "name": "Emily Carter",
+    "role": "Operations Director",
+    "avatar": "/images/users/user-01.jpg"
+  },
+  {
+    "id": "testimonial-2",
+    "logo": "/images/logos/logo-02.svg",
+    "logoText": "InnovateX",
+    "content": "Working with Savo Tech was a fantastic experience. They understood our business needs and built a scalable solution that significantly improved our workflow.",
+    "name": "Daniel Roberts",
+    "role": "CEO",
+    "avatar": "/images/users/user-02.jpg"
+  },
+  {
+    "id": "testimonial-3",
+    "logo": "/images/logos/logo-10.svg",
+    "logoText": "NextEdge",
+    "content": "Their expertise in UI/UX and application development helped us launch our product ahead of schedule. The quality of work was outstanding.",
+    "name": "Sophia Wilson",
+    "role": "Product Manager",
+    "avatar": "/images/users/user-03.jpg"
+  },
+  {
+    "id": "testimonial-4",
+    "logo": "/images/logos/logo-03.svg",
+    "logoText": "BluePeak",
+    "content": "Savo Tech transformed our outdated system into a fast, intuitive platform. Our customers immediately noticed the difference.",
+    "name": "Michael Thompson",
+    "role": "Founder",
+    "avatar": "/images/users/user-04.jpg"
+  },
+  {
+    "id": "testimonial-5",
+    "logo": "/images/logos/logo-08.svg",
+    "logoText": "CloudRise",
+    "content": "Their communication, transparency, and technical expertise made the entire development process smooth from start to finish.",
+    "name": "Olivia Anderson",
+    "role": "Marketing Director",
+    "avatar": "/images/users/user-05.jpg"
+  },
+  {
+    "id": "testimonial-6",
+    "logo": "/images/logos/logo-09.svg",
+    "logoText": "VisionCore",
+    "content": "We partnered with Savo Tech for our enterprise dashboard, and the final product has become an essential part of our daily operations.",
+    "name": "James Miller",
+    "role": "CTO",
+    "avatar": "/images/users/user-06.jpg"
+  },
+  {
+    "id": "testimonial-7",
+    "logo": "/images/logos/logo-01.svg",
+    "logoText": "FusionWorks",
+    "content": "The team's attention to detail and commitment to quality gave us complete confidence throughout the project. Highly recommended.",
+    "name": "Isabella Martinez",
+    "role": "Business Owner",
+    "avatar": "/images/users/user-07.jpg"
+  },
+  {
+    "id": "testimonial-8",
+    "logo": "/images/logos/logo-03.svg",
+    "logoText": "PrimeLogic",
+    "content": "Savo Tech developed a secure and reliable platform that perfectly matched our requirements. Their support after launch has been exceptional.",
+    "name": "William Harris",
+    "role": "IT Manager",
+    "avatar": "/images/users/user-08.jpg"
+  },
+  {
+    "id": "testimonial-9",
+    "logo": "/images/logos/logo-04.svg",
+    "logoText": "BrightPath",
+    "content": "From planning to deployment, every phase was handled professionally. We appreciated their proactive suggestions and technical guidance.",
+    "name": "Charlotte Moore",
+    "role": "Project Lead",
+    "avatar": "/images/users/user-09.jpg"
+  },
+  {
+    "id": "testimonial-10",
+    "logo": "/images/logos/logo-05.svg",
+    "logoText": "Vertex Labs",
+    "content": "Our new website performs beautifully and has significantly improved user engagement. The design is clean, modern, and highly functional.",
+    "name": "Benjamin Walker",
+    "role": "Managing Director",
+    "avatar": "/images/users/user-10.jpg"
+  },
+  {
+    "id": "testimonial-11",
+    "logo": "/images/logos/logo-06.svg",
+    "logoText": "Apex Systems",
+    "content": "The professionalism and technical knowledge of the Savo Tech team were evident from day one. They consistently delivered beyond expectations.",
+    "name": "Amelia Young",
+    "role": "Head of Digital",
+    "avatar": "/images/users/user-11.jpg"
+  },
+  {
+    "id": "testimonial-12",
+    "logo": "/images/logos/logo-07.svg",
+    "logoText": "CoreSync",
+    "content": "Their custom software solution streamlined our internal processes and reduced manual work dramatically. The ROI has been excellent.",
+    "name": "Ethan King",
+    "role": "Operations Manager",
+    "avatar": "/images/users/user-12.jpg"
+  },
+  {
+    "id": "testimonial-13",
+    "logo": "/images/logos/logo-08.svg",
+    "logoText": "Nexa Digital",
+    "content": "Savo Tech combined creativity with technical excellence to deliver a product our entire team is proud to use every day.",
+    "name": "Grace Hall",
+    "role": "Creative Director",
+    "avatar": "/images/users/user-13.jpg"
+  },
+  {
+    "id": "testimonial-14",
+    "logo": "/images/logos/logo-09.svg",
+    "logoText": "QuantumSoft",
+    "content": "Fast delivery, excellent communication, and outstanding results. We look forward to working with Savo Tech on future projects.",
+    "name": "Alexander Scott",
+    "role": "CEO",
+    "avatar": "/images/users/user-14.jpg"
+  },
+  {
+    "id": "testimonial-15",
+    "logo": "/images/logos/logo-10.svg",
+    "logoText": "Elevate Solutions",
+    "content": "Choosing Savo Tech was one of the best decisions we made. Their team consistently delivered high-quality work with exceptional attention to detail.",
+    "name": "Mia Green",
+    "role": "Founder & CEO",
+    "avatar": "/images/users/user-15.jpg"
+  }
+]

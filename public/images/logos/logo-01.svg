@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="140" height="40" viewBox="0 0 140 40">
+  <circle cx="18" cy="20" r="10" fill="#2563EB"/>
+  <path d="M18 10L26 26H10Z" fill="#60A5FA"/>
+  <text x="36" y="26" font-size="18" font-family="Inter,Arial" font-weight="700" fill="#111827">TechNova</text>
+</svg>

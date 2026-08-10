@@ -1,0 +1,44 @@
+[
+  {
+    "id": "research-1",
+    "logoText": "eNavvi",
+    "title": "On-Demand Video Streaming Platform for the Asia Pacific",
+    "description": "Result-driven App Marketing, ASO and CPI campaigns for a Fortune 500 entertainment company.",
+    "image": "/content/blog2.jpg"
+  },
+  {
+    "id": "research-2",
+    "logoText": "PulseCare",
+    "title": "Connected Health & Remote Patient Monitoring Infrastructure",
+    "description": "Enterprise API system scaling telemetry sync routines to meet HIPAA audit standards.",
+    "image": "/content/blog3.jpg"
+  },
+  {
+    "id": "research-3",
+    "logoText": "GlitchBox",
+    "title": "Unified Analytics Portal for Real-time Developer Dashboards",
+    "description": "Low-latency visualization pipeline aggregating high-throughput metric streams.",
+    "image": "/content/blog4.jpg"
+  },
+  {
+    "id": "research-4",
+    "logoText": "ApexFin",
+    "title": "High-Concurrency Payment Ledger Architecture",
+    "description": "Building fault-tolerant multi-region database replication protocols for banks.",
+    "image": "/content/blog1.png"
+  },
+  {
+    "id": "research-5",
+    "logoText": "LogiRoute",
+    "title": "AI Routing Optimization for Regional Fleets",
+    "description": "Smart dispatch heuristics cutting transportation fuel consumption overhead by 18%.",
+    "image": "/content/blog2.jpg"
+  },
+  {
+    "id": "research-6",
+    "logoText": "PropSphere",
+    "title": "Multi-Tenant Real Estate Valuation Engine",
+    "description": "Automated pipeline compiling regional market pricing trends via neural net estimators.",
+    "image": "/content/blog6.jpg"
+  }
+]

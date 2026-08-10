@@ -1,0 +1,58 @@
+[
+  {
+    "category": "Website Development",
+    "heading": "High-Performance Website Development for Modern Businesses",
+    "description": "We build fast, secure, and scalable websites tailored to your business goals. From corporate sites to advanced web platforms, our team delivers responsive and user-friendly solutions designed to attract customers and support long-term growth.",
+    "subItems": [
+      "Business Websites",
+      "E-commerce Websites",
+      "Custom Web Applications",
+      "Landing Pages",
+      "CMS Development"
+    ]
+  },
+  {
+    "category": "Software Development",
+    "heading": "Custom Software Solutions Built for Business Growth",
+    "description": "We develop intelligent, scalable software tailored to your workflows. From SaaS platforms to enterprise systems, APIs, and internal tools, our solutions streamline operations and support evolving business needs.",
+    "subItems": [
+      "Custom Software",
+      "SaaS Development",
+      "MVP Development",
+      "Enterprise Solutions",
+      "API Development"
+    ]
+  },
+  {
+    "category": "UI/UX & Branding",
+    "heading": "Creative UI/UX & Branding That Connects with Your Users",
+    "description": "Our design team blends creativity with functionality to craft intuitive interfaces and strong visual identities. We focus on user behavior, clean layouts, and brand storytelling that make digital products memorable.",
+    "subItems": [
+      "UI/UX Design",
+      "Wireframes & Prototypes",
+      "Product Design",
+      "Branding & Logos"
+    ]
+  },
+  {
+    "category": "AI & Automation",
+    "heading": "AI-Driven Solutions to Automate, Predict & Improve Performance",
+    "description": "Leverage the power of AI to optimize operations and unlock smarter decision-making. We develop intelligent chatbots, predictive models, automation tools, and dashboards that enhance efficiency and productivity.",
+    "subItems": [
+      "AI Chatbots",
+      "Predictive Analytics",
+      "Automation Tools",
+      "Data Dashboards"
+    ]
+  },
+  {
+    "category": "Digital Transformation",
+    "heading": "Strategic Digital Transformation for Future-Ready Businesses",
+    "description": "We help businesses modernize their processes with strategic consulting, performance optimization, and long-term technology planning. Our goal is to align digital solutions with your growth roadmap for sustainable success.",
+    "subItems": [
+      "Product Consulting",
+      "Performance Optimization",
+      "Technology Strategy"
+    ]
+  }
+]

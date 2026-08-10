@@ -1,0 +1,50 @@
+[
+  {
+    "id": "blog-1",
+    "title": "Cost to Build a Health and Fitness App Like Garmin Connect...",
+    "image": "/content/blog1.png",
+    "date": "October 17, 2025"
+  },
+  {
+    "id": "blog-2",
+    "title": "How to Integrate Generative AI into Enterprise Healthcare Platforms",
+    "image": "/content/blog2.jpg",
+    "date": "October 15, 2025"
+  },
+  {
+    "id": "blog-3",
+    "title": "Optimizing Headless Checkout Systems for High-Volume Mobile Commerce",
+    "image": "/content/blog3.jpg",
+    "date": "October 12, 2025"
+  },
+  {
+    "id": "blog-4",
+    "title": "Mitigating Security Risk in High-Concurrency Financial Ledgers",
+    "image": "/content/blog4.jpg",
+    "date": "October 08, 2025"
+  },
+  {
+    "id": "blog-5",
+    "title": "The Strategic Architecture of Multi-Region Kubernetes Operations",
+    "image": "/content/blog2.jpg",
+    "date": "October 04, 2025"
+  },
+  {
+    "id": "blog-6",
+    "title": "Designing Intuitive Developer APIs: Guidelines and Best Practices",
+    "image": "/content/blog6.jpg",
+    "date": "September 28, 2025"
+  },
+  {
+    "id": "blog-7",
+    "title": "Automating Serverless Deployment Workflows with Zero Down-Time",
+    "image": "/content/blog3.jpg",
+    "date": "September 24, 2025"
+  },
+  {
+    "id": "blog-8",
+    "title": "Achieving Real-Time Schema Reconciliation on Live Oracle Databases",
+    "image": "/content/blog4.jpg",
+    "date": "September 19, 2025"
+  }
+]
